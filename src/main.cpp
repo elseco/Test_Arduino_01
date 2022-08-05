@@ -2,7 +2,7 @@
 #include <Servo.h>
 
 Servo srv = Servo();
-int speed = 10;
+int speed = 15;
 int pos = 0;
 void setup() {
   // put your setup code here, to run once:
