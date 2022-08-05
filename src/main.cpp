@@ -3,7 +3,7 @@
 
 Servo srv = Servo();
 int speed = 15;
-int pos = 0;
+int pos = 90;
 void setup() {
   // put your setup code here, to run once:
   srv.attach(9);
